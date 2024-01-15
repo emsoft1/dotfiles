@@ -60,5 +60,7 @@
 [init]
   defaultBranch = master
 [user]
-	email = mehrdad.mansouri89@gmail.com
+	email = Mehrdad.Mansouri89@gmail.com
 	name = Mehrdad Mansouri
+[credential]
+	helper = store

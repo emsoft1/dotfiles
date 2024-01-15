@@ -84,4 +84,9 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "nxConsole.showNodeVersionOnStartup": false,
+    "terminal.integrated.env.linux": {},
+    "yaml.schemas": {
+      "file:///home/medi/.vscode/extensions/docsmsft.docs-yaml-1.0.1/dist/toc.schema.json": "/toc\\.yml/i"
+    },
 }
